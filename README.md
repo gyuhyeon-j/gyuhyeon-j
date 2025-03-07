@@ -7,9 +7,9 @@ gyuhyeon-j/gyuhyeon-j is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<a href="https://instagram.com/alpox.dev">
+<a href="https://instagram.com/j_gyuhyeon">
     <img 
-        src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://instagram.com/j_gyuhyeon/"
+        src="http://img.shields.io/badge/-Instagram-ff69b4?style=flat&logo=Instagram&link=https://instagram.com/j_gyuhyeon/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
